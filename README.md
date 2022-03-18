@@ -4,6 +4,7 @@
 
 En esta quinta práctica de CIU, he desarrollado programa el cual simula los trayectos de los usuarios de Sitycleta en un area de Las Palmas de Gran Canaria. Los trayectos son los realizados en el año 2021. En cada trayecto se muestra el punto de inicio, el punto de fin, la duración, el día y la hora.
 
+<br>
 <p><b> Funcionamiento </b></p>
 Al ejecutar el programa se empezaran a mostrar los trayectos en orden cronologico.
 
