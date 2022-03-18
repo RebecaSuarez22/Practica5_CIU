@@ -12,3 +12,10 @@ Al ejecutar el programa se empezaran a mostrar los trayectos en orden cronologic
   <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/159090958-c75b7361-12de-4f7c-b080-4a2fa29d4246.gif">
 </p>
 <br>
+
+<p><b> Referencias </b></p>
+<p>Guion de prácticas</p>
+<p>Documentación de processing</p>
+<p>https://www.sagulpa.com/datos-abiertos</p>
+<br>
+<p><b> Autor: Rebeca Suárez Ojeda </b></p>
