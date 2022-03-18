@@ -8,6 +8,7 @@ En esta quinta práctica de CIU, he desarrollado programa el cual simula los tra
 Al ejecutar el programa se empezaran a mostrar los trayectos en orden cronologico.
 
 <br>
+<br>
 <p align="center">
   <img width="750" height="400" src="https://user-images.githubusercontent.com/72138219/159090958-c75b7361-12de-4f7c-b080-4a2fa29d4246.gif">
 </p>
